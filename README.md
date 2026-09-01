@@ -97,7 +97,7 @@ The interactive dashboard provides an overview of:
 - Forecast by hub
 - Hub × category demand distribution
 
-![QuickU Demand Forecasting Dashboard](images/dashboard.jpg)
+![QuickU Demand Forecasting Dashboard](Demand Forecasting & Inventory Planning - Dashboard.jpg)
 
 ---
 
