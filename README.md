@@ -6,6 +6,8 @@ QuickU is a Q-Commerce platform focused on acquiring quality users while maintai
 
 This project analyzes historical demand patterns and develops a demand forecasting approach to support inventory planning and resource allocation across hubs and product categories.
 
+**Project Duration:** August 2026 - August 2026
+
 ---
 
 ## Business Problem
@@ -31,21 +33,25 @@ The analysis follows an end-to-end workflow:
 **Data Preparation → Exploratory Data Analysis → Demand Forecasting → Model Evaluation → Inventory Risk Analysis → Business Recommendations**
 
 ### 1. Data Preparation
+
 - Prepared and validated historical transaction data.
 - Aggregated demand by relevant time periods, hubs, and product categories.
 - Checked data consistency before forecasting.
 
 ### 2. Exploratory Data Analysis
+
 - Analyzed historical demand trends.
 - Identified demand patterns across weeks, hubs, and categories.
 - Evaluated demand variability to identify potential inventory risks.
 
 ### 3. Demand Forecasting
+
 - Developed multiple forecasting approaches.
 - Compared model performance using forecasting error metrics.
 - Selected the **4-Week Moving Average** as the preferred forecasting approach based on model evaluation results.
 
 ### 4. Inventory Planning
+
 - Generated demand forecasts for August 2022.
 - Compared forecasted demand across hubs and categories.
 - Evaluated demand share and volatility to identify inventory priorities.
